@@ -3,7 +3,7 @@ If you want to add your mod, do it like this:
 
 name of file = ModNameInCamelCase.json
 
-'''JSON
+```JSON
 {
     {"Name":"ModNameInCamelCase"}
     {"Version":0.42}
@@ -13,4 +13,4 @@ name of file = ModNameInCamelCase.json
     {"Desc":"One or two line description of mod."}
     {"License":"LicenseOfMod, I recommend the MMPLv2"}
 }
-'''
+```
