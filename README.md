@@ -12,5 +12,6 @@ name of file = ModNameInCamelCase.json
     "Author":"Developer(s) of mod",
     "Desc":"One or two line description of mod.",
     "License":"LicenseOfMod, I recommend the MMPLv2"
+    "Requirements":["MinecaftForge", "MyModCore"]
 }
 ```
