@@ -13,7 +13,8 @@ name of file = ModNameInCamelCase.json
     "Desc":"One or two line description of mod.",
     "License":"LicenseOfMod, I recommend the MMPLv2",
     "Requirements":["MinecaftForge", "MyModCore"],
-    "Incompatabilities":["MCPatcher", "RedPower2"],
-    "Type":"BaseMod, ModsFolder or Installer"
+    "Incompatibilities":["MCPatcher", "RedPower2"],
+    "Type":"Forge, Liteloader, Basemod or Installer"    "Unstable":"false/true",
+    "InstallerName":"NameOfFile(Only if installer)"
 }
 ```
