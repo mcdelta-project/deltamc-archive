@@ -1,0 +1,13 @@
+{
+    "Name":"DeeperCaves",
+    "Version":"0.3.0",
+    "MCVersion":["1.7.10"],
+    "Link":"http://kpabr.com/mcmods/stopmodreposts/latest",
+    "Author":"github.com/Valiec",
+    "Desc":"Adds over 2000 blocks worth of unique new cave levels beneath the overworld. The levels include ravines over 150 blocks deep, a giant bedrock cavern, caves open to the void, and more.",
+    "License":"For now, see https://github.com/Valiec/DeeperCaves/issues/23 for info.",
+    "Requirements":["MinecraftForge"],
+    "Incompatibilities":[],
+    "Type":"Forge",
+    "Unstable":"false"
+}
