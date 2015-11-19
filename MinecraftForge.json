@@ -8,6 +8,7 @@
     "License":"MinecraftForgePublicLicence",
     "Requirements":[],
     "Incompatibilities":[],
+    "Recommended":[],
     "Type":"Installer",
     "Unstable":"false",
     "InstallerName":"Forgeinstaller.jar"
