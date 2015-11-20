@@ -13,5 +13,21 @@
        "Type":"Installer",
        "Unstable":"false",
        "InstallerName":"Forgeinstaller.jar"
- }
+ },
+ "Liteloader": {
+    "Name":"Liteloader",
+    "Version":"1.8snapshot",
+    "MCVersion":["1.8"],
+    "Link":"http://jenkins.liteloader.com/job/LiteLoaderInstaller/lastSuccessfulBuild/artifact/ant/dist/liteloader-installer-1.8.0-00-SNAPSHOT.jar",
+    "Author":"github.com/Mumfrey",
+    "Desc":"A lightweight mod loader for Minecraft.",
+    "License":"Read 'Permissions' at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290155-liteloader-for-minecraft-1-7-10",
+    "Requirements":[],
+    "Incompatibilities":[],
+    "Recommended":[],
+    "Type":"Installer",
+    "Unstable":"true",
+    "InstallerName":"Liteloader-installer.jar"
+    },
+    
 }
