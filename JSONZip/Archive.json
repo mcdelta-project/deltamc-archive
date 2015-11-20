@@ -14,20 +14,33 @@
        "Unstable":"false",
        "InstallerName":"Forgeinstaller.jar"
  },
- "Liteloader": {
-    "Name":"Liteloader",
-    "Version":"1.8snapshot",
-    "MCVersion":["1.8"],
-    "Link":"http://jenkins.liteloader.com/job/LiteLoaderInstaller/lastSuccessfulBuild/artifact/ant/dist/liteloader-installer-1.8.0-00-SNAPSHOT.jar",
-    "Author":"github.com/Mumfrey",
-    "Desc":"A lightweight mod loader for Minecraft.",
-    "License":"Read 'Permissions' at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290155-liteloader-for-minecraft-1-7-10",
-    "Requirements":[],
-    "Incompatibilities":[],
-    "Recommended":[],
-    "Type":"Installer",
-    "Unstable":"true",
-    "InstallerName":"Liteloader-installer.jar"
+    "Liteloader": {
+        "Name":"Liteloader",
+        "Version":"1.8snapshot",
+        "MCVersion":["1.8"],
+        "Link":"http://jenkins.liteloader.com/job/LiteLoaderInstaller/lastSuccessfulBuild/artifact/ant/dist/liteloader-installer-1.8.0-00-SNAPSHOT.jar",
+        "Author":"github.com/Mumfrey",
+        "Desc":"A lightweight mod loader for Minecraft.",
+        "License":"Read 'Permissions' at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290155-liteloader-for-minecraft-1-7-10",
+        "Requirements":[],
+        "Incompatibilities":[],
+        "Recommended":[],
+        "Type":"Installer",
+        "Unstable":"true",
+        "InstallerName":"Liteloader-installer.jar"
     },
-    
+    "EndPlus": {
+        "Name":"EndPlus",
+        "Version":"1.6.2",
+        "MCVersion":["1.7.10"],
+        "Link":"http://kpabr.com/mcmods/endplus/latestjar",
+        "Author":"github.com/Valiec",
+        "Desc":"Adds ores, tools, weapons, a structure, food, mobs and more to the Nether and the End dimensions. Additionally, the End now has infinite land. It also adds a villager type, a biome, ores and more to the Overworld.",
+        "License":"For now, see https://github.com/Valiec/EndPlus/issues/3 for info.",
+        "Requirements":[],
+        "Incompatibilities":[],
+        "Recommended":[],
+        "Type":"Forge",
+        "Unstable":"false"
+    }
 }
