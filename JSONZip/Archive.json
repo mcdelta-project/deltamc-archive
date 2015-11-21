@@ -1,61 +1,69 @@
 {
-    // Please note: This file is downloaded by CMAN-Java. Do not edit without permission.
+    "_comment_": "Note: This file is downloaded by CMAN Java Client and removing this file will break the client. Thank you.",
     "MinecraftForge": {
-       "Name":"MinecraftForge",
-       "Version":"11.14.3.1543",
-       "MCVersion":["1.8"],
-       "Link":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8-11.14.3.1543/forge-1.8-11.14.3.1543-installer.jar",
-       "Author":"github.com/MinecraftForge/",
-       "Desc":" Modifications to the Minecraft base files to assist in compatibility between mods.",
-       "License":"MinecraftForgePublicLicence",
-       "Requirements":[],
-       "Incompatibilities":[],
-       "Recommended":[],
-       "Type":"Installer",
-       "Unstable":"false",
-       "InstallerName":"Forgeinstaller.jar"
+        "Name": "MinecraftForge",
+        "Version": "11.14.3.1543",
+        "MCVersion": [
+            "1.8"
+        ],
+        "Link": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8-11.14.3.1543/forge-1.8-11.14.3.1543-installer.jar",
+        "Author": "github.com/MinecraftForge/",
+        "Desc": " Modifications to the Minecraft base files to assist in compatibility between mods.",
+        "License": "MinecraftForgePublicLicence",
+        "Requirements": [],
+        "Incompatibilities": [],
+        "Recommended": [],
+        "Type": "Installer",
+        "Unstable": "false",
+        "InstallerName": "Forgeinstaller.jar"
     },
     "Liteloader": {
-        "Name":"Liteloader",
-        "Version":"1.8snapshot",
-        "MCVersion":["1.8"],
-        "Link":"http://jenkins.liteloader.com/job/LiteLoaderInstaller/lastSuccessfulBuild/artifact/ant/dist/liteloader-installer-1.8.0-00-SNAPSHOT.jar",
-        "Author":"github.com/Mumfrey",
-        "Desc":"A lightweight mod loader for Minecraft.",
-        "License":"Read 'Permissions' at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290155-liteloader-for-minecraft-1-7-10",
-        "Requirements":[],
-        "Incompatibilities":[],
-        "Recommended":[],
-        "Type":"Installer",
-        "Unstable":"true",
-        "InstallerName":"Liteloader-installer.jar"
+        "Name": "Liteloader",
+        "Version": "1.8snapshot",
+        "MCVersion": [
+            "1.8"
+        ],
+        "Link": "http://jenkins.liteloader.com/job/LiteLoaderInstaller/lastSuccessfulBuild/artifact/ant/dist/liteloader-installer-1.8.0-00-SNAPSHOT.jar",
+        "Author": "github.com/Mumfrey",
+        "Desc": "A lightweight mod loader for Minecraft.",
+        "License": "Read 'Permissions' at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290155-liteloader-for-minecraft-1-7-10",
+        "Requirements": [],
+        "Incompatibilities": [],
+        "Recommended": [],
+        "Type": "Installer",
+        "Unstable": "true",
+        "InstallerName": "Liteloader-installer.jar"
     },
     "EndPlus": {
-        "Name":"EndPlus",
-        "Version":"1.6.2",
-        "MCVersion":["1.7.10"],
-        "Link":"http://kpabr.com/mcmods/endplus/latestjar",
-        "Author":"github.com/Valiec",
-        "Desc":"Adds ores, tools, weapons, a structure, food, mobs and more to the Nether and the End dimensions. Additionally, the End now has infinite land. It also adds a villager type, a biome, ores and more to the Overworld.",
-        "License":"For now, see https://github.com/Valiec/EndPlus/issues/3 for info.",
-        "Requirements":[],
-        "Incompatibilities":[],
-        "Recommended":[],
-        "Type":"Forge",
-        "Unstable":"false"
+        "Name": "EndPlus",
+        "Version": "1.6.2",
+        "MCVersion": [
+            "1.7.10"
+        ],
+        "Link": "http://kpabr.com/mcmods/endplus/latestjar",
+        "Author": "github.com/Valiec",
+        "Desc": "Adds ores, tools, weapons, a structure, food, mobs and more to the Nether and the End dimensions. Additionally, the End now has infinite land. It also adds a villager type, a biome, ores and more to the Overworld.",
+        "License": "For now, see https://github.com/Valiec/EndPlus/issues/3 for info.",
+        "Requirements": [],
+        "Incompatibilities": [],
+        "Recommended": [],
+        "Type": "Forge",
+        "Unstable": "false"
     },
     "DeeperCaves": {
-        "Name":"DeeperCaves",
-        "Version":"0.3.0",
-        "MCVersion":["1.7.10"],
-        "Link":"http://kpabr.com/mcmods/deepercaves/latestjar",
-        "Author":"github.com/Valiec",
-        "Desc":"Adds over 2000 blocks worth of unique new cave levels beneath the overworld. The levels include ravines over 150 blocks deep, a giant bedrock cavern, caves open to the void, and more.",
-        "License":"For now, see https://github.com/Valiec/DeeperCaves/issues/23 for info.",
-        "Requirements":[],
-        "Incompatibilities":[],
-        "Recommended":[],
-        "Type":"Forge",
-        "Unstable":"false"
+        "Name": "DeeperCaves",
+        "Version": "0.3.0",
+        "MCVersion": [
+            "1.7.10"
+        ],
+        "Link": "http://kpabr.com/mcmods/deepercaves/latestjar",
+        "Author": "github.com/Valiec",
+        "Desc": "Adds over 2000 blocks worth of unique new cave levels beneath the overworld. The levels include ravines over 150 blocks deep, a giant bedrock cavern, caves open to the void, and more.",
+        "License": "For now, see https://github.com/Valiec/DeeperCaves/issues/23 for info.",
+        "Requirements": [],
+        "Incompatibilities": [],
+        "Recommended": [],
+        "Type": "Forge",
+        "Unstable": "false"
     }
 }
