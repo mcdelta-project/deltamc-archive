@@ -1,5 +1,5 @@
 {
-    "Name":"MinecraftForge",
+    "Name":"MinecraftForge 1.8",
     "Version":"11.14.3.1543",
     "MCVersion":["1.8"],
     "Link":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8-11.14.3.1543/forge-1.8-11.14.3.1543-installer.jar",
@@ -11,5 +11,5 @@
     "Recommended":[],
     "Type":"Installer",
     "Unstable":"false",
-    "InstallerName":"Forgeinstaller.jar"
+    "InstallerName":"Forgeinstaller_1-8.jar"
 }

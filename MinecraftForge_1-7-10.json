@@ -1,5 +1,5 @@
 {
-    "Name":"MinecraftForge",
+    "Name":"MinecraftForge 1.7.10",
     "Version":"10.13.4.1558",
     "MCVersion":["1.7.10"],
     "Link":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forge-1.7.10-10.13.4.1558-1.7.10-installer.jar",
@@ -11,5 +11,5 @@
     "Recommended":[],
     "Type":"Installer",
     "Unstable":"false",
-    "InstallerName":"Forgeinstaller.jar"
+    "InstallerName":"Forgeinstaller_1-7-10.jar"
 }
