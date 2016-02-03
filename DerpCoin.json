@@ -2,7 +2,7 @@
     "Name":"DerpCoin",
     "Version":"0.10.37",
     "MCVersion":["1.8"],
-    "Link":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forge-1.7.10-10.13.4.1558-1.7.10-installer.jar",
+    "Link":"https://github.com/randomtestfive/DerpCoin2/releases/download/v0.10.37/DerpCoin-0.10.37.jar",
     "Author":"github.com/randomtestfive/",
     "Desc":"A mod that was created when Randomtestfive tried to make a default asset. It didn't work.",
     "License":"MIT",
