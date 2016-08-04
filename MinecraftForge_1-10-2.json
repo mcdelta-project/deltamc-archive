@@ -1,0 +1,15 @@
+{
+    "Name":"MinecraftForge_1-10-2",
+    "Version":"12.18.1.2045",
+    "MCVersion":["1.10.2"],
+    "Link":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.10.2-12.18.1.2045/forge-1.10.2-12.18.1.2045-installer.jar",
+    "Author":"github.com/MinecraftForge/",
+    "Desc":" Modifications to the Minecraft base files to assist in compatibility between mods.",
+    "License":"MinecraftForgePublicLicence",
+    "Requirements":[],
+    "Incompatibilities":[],
+    "Recommended":[],
+    "Type":"Installer",
+    "Unstable":"false",
+    "InstallerName":"Forgeinstaller_1-10-2.jar"
+}
