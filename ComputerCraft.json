@@ -1,0 +1,14 @@
+{
+    "Name":"ComputerCraft",
+    "Version":"v1.79",
+    "MCVersion":["1.8.9"],
+    "Link":"minecraft.curseforge.com/projects/computercraft/files/2291384/download",
+    "Author":"dan200",
+    "Desc":"ComputerCraft is a modification for Minecraft that’s all about computer programming. It allows you to build in-game Computers and Turtles, and write programs for them using the Lua programming language.",
+    "License":"LicenseOfMod",
+    "Requirements":[],
+    "Incompatibilities":[],
+    "Recommended":[],
+    "Type":"Forge",
+    "Unstable":"false"
+}
