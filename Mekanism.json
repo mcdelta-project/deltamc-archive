@@ -1,0 +1,14 @@
+{
+    "Name":"Mekanism",
+    "Version":"v9.3.2.307",
+    "MCVersion":["1.11.2"],
+    "Link":"http://aidancbrady.com/wp-content/uploads/mekanism/307-recommended/Mekanism-1.11.2-9.3.2.307.jar",
+    "Author":"aidancbrady",
+    "Desc":"Mekanism is an independent tech mod that brings low, mid, and high tier machinery to Minecraft. The mod doesn’t have an actual goal, and you’ll understand this when you see all the random content Mekanism contains, from jetpacks to balloons.",
+    "License":"MIT",
+    "Requirements":[],
+    "Incompatibilities":[],
+    "Recommended":["MekanismTools", "MekanismGenerators"],
+    "Type":"Forge",
+    "Unstable":"false"
+}
