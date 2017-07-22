@@ -11,7 +11,7 @@ name of file = ModNameInCamelCase.json
     "Link":"http://www.example.com/DirectLinkToTheMod.jar",
     "Author":"Developer(s) of mod",
     "Desc":"One or two line description of mod.",
-    "License":"LicenseOfMod, I recommend the MMPLv2",
+    "License":"LicenseOfMod",
     "Requirements":["MinecaftForge", "MyModCore"],
     "Incompatibilities":["MCPatcher", "RedPower2"],
     "Recommended":["OtherModsWhichWorkWellWithThis."],
