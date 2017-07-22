@@ -1,6 +1,6 @@
 {
     "Name":"MinecraftForge",
-    "Link":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/{mc-version}-{version}-{mc-version}/forge-{mc-version}-{version}-{mc-version}-installer.jar",
+    "Link":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/{1}-{0}/forge-{1}-{0}-installer.jar",
     "Author":"github.com/MinecraftForge/",
     "Desc":" Modifications to the Minecraft base files to assist in compatibility between mods.",
     "License":"MinecraftForgePublicLicence",
