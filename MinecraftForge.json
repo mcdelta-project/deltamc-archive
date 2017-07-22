@@ -1,0 +1,39 @@
+{
+    "Name":"MinecraftForge_1-7-10",
+    "Link":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/{mc-version}-{version}-{mc-version}/forge-{mc-version}-{version}-{mc-version}-installer.jar",
+    "Author":"github.com/MinecraftForge/",
+    "Desc":" Modifications to the Minecraft base files to assist in compatibility between mods.",
+    "License":"MinecraftForgePublicLicence",
+    "Requirements":[],
+    "Incompatibilities":[],
+    "Recommended":[],
+    "Type":"Installer",
+    "Unstable":"false",
+    "InstallerName":"Forgeinstaller_{version}.jar",
+    "Versions":[
+        {
+            "Version":"10.13.4.1614",
+            "MCVersion":["1.7.10"]
+        },
+        {
+            "Version":"11.15.1.2318",
+            "MCVersion":["1.8.9"]
+        },
+        {
+            "Version":"12.17.0.2051",
+            "MCVersion":["1.9.4"]
+        },
+        {
+            "Version":"12.18.3.2422",
+            "MCVersion":["1.10.2"]
+        },
+        {
+            "Version":"13.20.1.2421",
+            "MCVersion":["1.11.2"]
+        },
+        {
+            "Version":"14.21.1.2420",
+            "MCVersion":["1.12"]
+        }
+    ]
+}
