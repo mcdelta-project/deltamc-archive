@@ -1,7 +1,5 @@
 {
     "Name":"Liteloader",
-    "Version":"1.8snapshot",
-    "MCVersion":["1.8"],
     "Link":"http://jenkins.liteloader.com/job/LiteLoaderInstaller/lastSuccessfulBuild/artifact/ant/dist/liteloader-installer-1.8.0-00-SNAPSHOT.jar",
     "Author":"github.com/Mumfrey",
     "Desc":"A lightweight mod loader for Minecraft.",
@@ -11,5 +9,11 @@
     "Recommended":[],
     "Type":"Installer",
     "Unstable":"true",
-    "InstallerName":"Liteloader-installer.jar"
+    "InstallerName":"Liteloader-installer.jar",
+    "Versions":[
+        {
+            "Version":"1.8snapshot",
+            "MCVersion":["1.8"],
+        }
+    ]
 }
