@@ -1,0 +1,14 @@
+{
+    "Name":"FarLands",
+    "Version":"1.0.1",
+    "MCVersion":["1.7.10"],
+    "Link":"http://kpabr.com/mcmods/farlands/latestjar",
+    "Author":"github.com/Valiec",
+    "Desc":"This mod brings back the Far Lands. However, it also allows you to configure the distance at which they start.",
+    "License":"For now, see https://github.com/Valiec/EndPlus/issues/3 for info.",
+    "Requirements":[],
+    "Incompatibilities":[],
+    "Recommended":[],
+    "Type":"Forge",
+    "Unstable":"false"
+}
