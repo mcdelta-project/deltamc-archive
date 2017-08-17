@@ -6,17 +6,21 @@ name of file = ModNameInCamelCase.json
 ```JSON
 {
     "Name":"ModNameInCamelCase",
-    "Version":"v0.42 alpha",
-    "MCVersion":["1.8.8", "1.8.7"],
-    "Link":"http://www.example.com/DirectLinkToTheMod.jar",
     "Author":"Developer(s) of mod",
-    "Desc":"One or two line description of mod.",
+    "Desc":"Description of mod.",
     "License":"LicenseOfMod",
-    "Requirements":["MinecaftForge", "MyModCore"],
-    "Incompatibilities":["MCPatcher", "RedPower2"],
-    "Recommended":["OtherModsWhichWorkWellWithThis."],
+    "Requirements":["Mods which this mod needs", "MyModLibrary"],
+    "Incompatibilities":["Mods which break when used with this", "HerobrineMod"],
+    "Recommended":["Mods which this mod works well with", "AmazingMod"],
     "Type":"Forge, Liteloader, Basemod or Installer",
-    "Unstable":"false/true",
-    "InstallerName":"NameOfFile.jar(Only if installer)"
+    "Unstable":"true/false",
+    "InstallerName":"NameOfFile.jar(Leave out if not installer mod)",
+    "Versions":[
+        {
+            "Version":"v0.1",
+            "MCVersion":["1.7.2, 1.7.10"],
+            "Link":"http://www.example.com/DirectLinkToTheMod.jar"
+        }
+    ]
 }
 ```

@@ -1,6 +1,5 @@
 {
     "Name":"DefenseTech",
-    "Link":"http://aidancbrady.com/wp-content/uploads/defensetech/46/DefenseTech-{1}-{0}.jar",
     "Author":"aidancbrady, Calclavia, DarkGuardsman",
     "Desc":"DefenseTech is a Minecraft mod bringing high-tech, advanced defense systems into the game through missiles, powerful explosives, and other nifty gadgets.  The mod serves as a classic continuation of Calclavia’s ICBM mod with a few tweaks here and there to help things run nicely.",
     "License":"Custom",
@@ -12,7 +11,8 @@
     "Versions":[
         {
             "Version":"v1.0.1.46",
-            "MCVersion":["1.7.10"]
+            "MCVersion":["1.7.10"],
+            "Link":"http://aidancbrady.com/wp-content/uploads/defensetech/46/DefenseTech-1.7.10-v1.0.1.46.jar"
         }
     ]
 }
