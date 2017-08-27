@@ -1,4 +1,4 @@
-# CMAN-Archive
+# DeltaMC-Archive
 If you want to add your mod, do it like this:
 
 name of file = ModNameInCamelCase.json
