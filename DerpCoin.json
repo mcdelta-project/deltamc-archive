@@ -1,8 +1,5 @@
 {
     "Name":"DerpCoin",
-    "Version":"0.10.37",
-    "MCVersion":["1.8"],
-    "Link":"https://github.com/randomtestfive/DerpCoin2/releases/download/v0.10.37/DerpCoin-0.10.37.jar",
     "Author":"github.com/randomtestfive/",
     "Desc":"A mod that was created when Randomtestfive tried to make a default asset. It didn't work.",
     "License":"MIT",
@@ -10,5 +7,12 @@
     "Incompatibilities":[],
     "Recommended":[],
     "Type":"Forge",
-    "Unstable":"true"
+    "Unstable":"true",
+    "Versions":[
+        {
+            "Version":"0.10.37",
+            "MCVersion":["1.8"],
+            "Link":"https://github.com/randomtestfive/DerpCoin2/releases/download/0.10.37/DerpCoin-0.10.37.jar"
+        }
+    ]
 }

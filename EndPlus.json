@@ -1,8 +1,5 @@
 {
     "Name":"EndPlus",
-    "Version":"1.7.0",
-    "MCVersion":["1.7.10"],
-    "Link":"http://kpabr.com/mcmods/endplus/latestjar",
     "Author":"github.com/Valiec",
     "Desc":"Adds ores, tools, weapons, a structure, food, mobs and more to the Nether and the End dimensions. Additionally, the End now has infinite land. It also adds a villager type, a biome, ores and more to the Overworld.",
     "License":"For now, see https://github.com/Valiec/EndPlus/issues/3 for info.",
@@ -10,5 +7,12 @@
     "Incompatibilities":[],
     "Recommended":[],
     "Type":"Forge",
-    "Unstable":"false"
+    "Unstable":"false",
+    "Versions":[
+        {
+            "Version":"1.7.0",
+            "MCVersion":["1.7.10"],
+            "Link":"http://kpabr.com/mcmods/endplus/latestjar"
+        }
+    ]
 }

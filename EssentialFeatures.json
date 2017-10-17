@@ -1,8 +1,5 @@
 {
     "Name":"EssentialFeatures",
-    "Version":"1.3",
-    "MCVersion":["1.11.2"],
-    "Link":"https://github.com/williambl/EssentialFeatures/releases/download/v1.3/essentialfeatures-1.3.jar",
     "Author":"github.com/williambl",
     "Desc":"A mod which adds various features to Minecraft, such as new glowstone variants, and a block which emits redstone when looked at.",
     "License":"MIT",
@@ -10,5 +7,12 @@
     "Incompatibilities":[],
     "Recommended":[],
     "Type":"Forge",
-    "Unstable":"false"
+    "Unstable":"false",
+    "Versions":[
+        {
+            "Version":"1.3",
+            "MCVersion":["1.11.2"],
+            "Link":"https://github.com/williambl/EssentialFeatures/releases/download/1.3/essentialfeatures-1.3.jar"
+        }
+    ]
 }

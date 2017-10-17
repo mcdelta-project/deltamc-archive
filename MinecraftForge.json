@@ -1,0 +1,44 @@
+{
+    "Name":"MinecraftForge",
+    "Author":"github.com/MinecraftForge/",
+    "Desc":" Modifications to the Minecraft base files to assist in compatibility between mods.",
+    "License":"MinecraftForgePublicLicence",
+    "Requirements":[],
+    "Incompatibilities":[],
+    "Recommended":[],
+    "Type":"Installer",
+    "Unstable":"false",
+    "InstallerName":"Forgeinstaller_{version}.jar",
+    "Versions":[
+        {
+            "Version":"10.13.4.1614",
+            "MCVersion":["1.7.10"],
+			"Link":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.7.10-10.13.4.1614/forge-1.7.10-10.13.4.1614-installer.jar"
+        },
+        {
+            "Version":"11.15.1.2318",
+            "MCVersion":["1.8.9"],
+			"Link":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318/forge-1.8.9-11.15.1.2318-installer.jar"
+        },
+        {
+            "Version":"12.17.0.2051",
+            "MCVersion":["1.9.4"],
+			"Link":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.9.4-12.17.0.2051/forge-1.9.4-12.17.0.2051-installer.jar"
+        },
+        {
+            "Version":"12.18.3.2422",
+            "MCVersion":["1.10.2"],
+			"Link":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.10.2-12.18.3.2422/forge-1.10.2-12.18.3.2422-installer.jar"
+        },
+        {
+            "Version":"13.20.1.2421",
+            "MCVersion":["1.11.2"],
+			"Link":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.11.2-13.20.1.2421/forge-1.11.2-13.20.1.2421-installer.jar"
+        },
+        {
+            "Version":"14.21.1.2420",
+            "MCVersion":["1.12"],
+			"Link":"http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12-14.21.1.2420/forge-1.12-14.21.1.2420-installer.jar"
+        }
+    ]
+}
